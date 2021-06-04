@@ -284,23 +284,6 @@ main {
     color: rebeccapurple;
 }
 
-/* ----- banner box ----- */
-
-.banner-texto {
-    justify-content: column;
-    font-family: 'Odibee Sans', cursive;
-    font-size: 2rem;
-    padding: 0 10%;
-    text-align: center;
-}
-
-
-@media screen and (max-width: 768px) {
-    .banner-texto  {
-        font-size: 2rem;
-    }
-}
-
 /*  ----- formulário ----- */
 
 #formulario {
