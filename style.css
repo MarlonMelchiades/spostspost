@@ -380,7 +380,7 @@ main {
     opacity:0.8;
   }
   
-  @media (max-width:767px) {
+  @media screen and (max-width: 768px) {
     .footer-dark .item:not(.social) {
       text-align:center;
       padding-bottom:20px;
