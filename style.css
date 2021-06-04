@@ -287,7 +287,7 @@ main {
 /* ----- banner box ----- */
 
 .banner {
-    background-image: url(../img/sportsbox.jpg);
+    background-image: url(sportsbox.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
