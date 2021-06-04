@@ -286,7 +286,8 @@ main {
 
 /* ----- banner box ----- */
 
-.banner-texto {  
+.banner-texto {
+    justify-content: column;
     font-family: 'Odibee Sans', cursive;
     font-size: 2rem;
     padding: 0 10%;
@@ -296,7 +297,7 @@ main {
 
 @media screen and (max-width: 768px) {
     .banner-texto  {
-        font-size: 1.2rem;
+        font-size: 2rem;
     }
 }
 
