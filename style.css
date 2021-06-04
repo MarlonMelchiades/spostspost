@@ -112,6 +112,10 @@ main {
         margin: 0 auto;
         margin-bottom: 2rem;
     }
+    
+    .card {
+        width: 21rem;
+    }
 }
 
 #titulo-texto {
