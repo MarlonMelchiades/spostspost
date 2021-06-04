@@ -286,31 +286,10 @@ main {
 
 /* ----- banner box ----- */
 
-.banner {
-    background-image: url(sportsbox.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100vw;
-    height: 50vh;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-}
-
-.banner-tema {
-    background-color: rgba(0, 0, 0, 0.7);
-    display: flex;
-    align-items: center;
-    width: 100vw;
-    height: 50vh;
-}
-
 .banner-texto {  
-    font-size: 1.5rem;
-    text-shadow: #000 2px 2px 1px;
-    color: #fff;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 2rem;
     padding: 0 10%;
-    position: absolute;
     text-align: center;
 }
 
