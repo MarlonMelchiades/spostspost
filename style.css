@@ -102,7 +102,7 @@ main {
     height: 180px;
 }
 
-@media screen and (max-width: 480px) {
+@media (max-width: 767px) {
     .noticias-1 {
         justify-content: center;
         width: 100%;
@@ -172,7 +172,7 @@ main {
 }
 
 
-@media screen and (max-width: 480px) {
+@media (max-width: 767px) {
     .noticias-2 {
         width: 100%;
     }
@@ -312,7 +312,7 @@ main {
     border-color: rgb(91, 32, 151);
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 767px) {
     #formulario {
         margin: 0 2rem 3rem 2rem;
       }
@@ -380,7 +380,7 @@ main {
     opacity:0.8;
   }
   
-  @media screen and (max-width: 480px) {
+  @media (max-width: 767px) {
     .footer-dark .item:not(.social) {
       text-align:center;
       padding-bottom:20px;
