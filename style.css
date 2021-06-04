@@ -102,7 +102,7 @@ main {
     height: 180px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .noticias-1 {
         justify-content: center;
         width: 100%;
@@ -172,7 +172,7 @@ main {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .noticias-2 {
         width: 100%;
     }
@@ -380,7 +380,7 @@ main {
     opacity:0.8;
   }
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 480px) {
     .footer-dark .item:not(.social) {
       text-align:center;
       padding-bottom:20px;
